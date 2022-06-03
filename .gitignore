@@ -1,3 +1,7 @@
+# OS-Specific Files
+.DS_Store
+.Trashes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
