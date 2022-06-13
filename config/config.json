@@ -1,0 +1,23 @@
+{
+    "set_mode" : "light",
+    "color_th" : "blue",
+
+    "bg" : "#ebebec",
+    "blue" : "#6a95ce",
+    "white" : "#fff",
+    "black" : "#000",
+
+    "logo" : "./images/kangaroo.png",
+
+    "icon_size" : 18,
+    "icon_add" : "./images/icon_add.png",
+    "icon_edit" : "./images/icon_edit.png",
+    "icon_logout" : "./images/icon_logout.png",
+    "icon_info" : "./images/icon_info.png",
+
+    "url_repo" : "https://github.com/jerorguez/Kangaroo",
+    "users_db" : "",
+
+    "title_main" : "Kangaroo",
+    "title_admin" : "Kangaroo | Admin"
+}

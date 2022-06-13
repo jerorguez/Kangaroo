@@ -1,0 +1,1 @@
+{"id": 1, "username": "pepito", "password": "1234", "email": "pepitogrillo@gmail.com", "name": "Pepito", "l_name": "Grillo", "dni": "4500001A", "address": "Calle Pinocho, 67", "contact": "6666666", "pay_methods": []}

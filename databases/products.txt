@@ -1,0 +1,2 @@
+{"id": 1, "name": "Dog Food", "category": "Dog", "supplier": "Comarca", "price": "12.00"}
+{"id": 2, "name": "Cat Food", "category": "Cat", "supplier": "Comarca", "price": "9.00"}
